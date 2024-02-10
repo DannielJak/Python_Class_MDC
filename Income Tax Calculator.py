@@ -1,4 +1,3 @@
-
 gross_income = float(input("Enter the gross income: ", ))
 gross_income = round(gross_income, 2)
 number_of_dependents = int(input("Enter the number of dependents: ", ))
